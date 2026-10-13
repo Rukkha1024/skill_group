@@ -1,6 +1,6 @@
 ---
 name: windows-cron
-description: Windows에서 유저가 만든 예약·로그인·이벤트 자동화 생성, 조회, 이동, 관리할 때 사용. Windows 기본 작업과 앱 자체 업데이트는 제외.
+description: Windows에서 유저가 만든 예약·로그인·이벤트 자동화 관리할 때 사용.
 ---
 
 # Windows Cron
